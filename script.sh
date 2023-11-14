@@ -6,3 +6,5 @@ echo "another line"
 
 echo "Another echo"
 echo "Running from external repo?!"
+
+echo "New feature"
